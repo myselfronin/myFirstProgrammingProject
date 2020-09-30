@@ -1,2 +1,3 @@
-# myFirstProgrammingProject
-A quiz game using C. It was my first year project.
+# My FirstProgramming Project
+A quiz game made using C Language. It was my first year project.
+****************Hope You Like it*************
